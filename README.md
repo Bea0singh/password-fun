@@ -11,13 +11,6 @@ HTML
 CSS
 JavaScript
 
-**Installation**
-Clone the repository:
-
-git clone https://github.com/yourusername/password-strength-background.git
-
-cd password-strength-background
-
 
 **Usage**
 Open the index.html file in your web browser.
