@@ -15,6 +15,7 @@ JavaScript
 Clone the repository:
 
 git clone https://github.com/yourusername/password-strength-background.git
+
 cd password-strength-background
 
 
